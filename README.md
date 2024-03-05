@@ -23,3 +23,6 @@ Supongamos que queremos encontrar la raíz de la función `f(x) = x^2 - 2`. Pode
 ```python
 def ejemplo_funcion(x):
     return x**2-2
+```
+
+Aqui proporcionaremos la funcion a realizar.
