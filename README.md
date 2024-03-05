@@ -20,7 +20,6 @@ Para utilizar este código, sigue los siguientes pasos:
 
 Supongamos que queremos encontrar la raíz de la función `f(x) = x^2 - 2`. Podemos ejecutar el script proporcionando los extremos del intervalo.
 
-
-
 ```python
-python regla_falsa.py
+def ejemplo_funcion(x):
+    return x**2-2
